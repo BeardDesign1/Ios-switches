@@ -80,4 +80,7 @@
 .bda-slist .checkbox {
     margin-top: -116px;
 }
+.context-menu .checkbox{
+	transform:translate(-13px);
+}
 /*---------------------Made By Beard Design-----------------------*/
