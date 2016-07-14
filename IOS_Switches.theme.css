@@ -1,4 +1,4 @@
-//META{"name":"IOS_switches","description":"Turns checkboxes into IOS switches","author":"Beard_Design","version":"1.0.0"}*//{}
+//META{"name":"IOS_switches","description":"Turns checkboxes into IOS switches","author":"Beard_Design","version":"1.1.0"}*//{}
 
 /*---------------------Made By Beard Design-----------------------*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span:after{
